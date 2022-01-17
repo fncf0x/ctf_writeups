@@ -5,7 +5,7 @@ We were given a web app that sends a request to the server using axios via a but
 
 [http://passparser.web.ctf.shellmates.club/verify.php?url=URL_HERE](http://passparser.web.ctf.shellmates.club/verify.php?url=URL_HERE)
 
-We first had to bypass the hostname check using well known techniques but no one worked and we continue had a message saying "You don't have permission".
+We first had to bypass the hostname check using well known techniques but no one worked and we continuously had a message saying "You don't have permission".
 
 Then we though it was an HTTP Splitting attack due to the response when sending a CRLF at the end of the URL.
 
