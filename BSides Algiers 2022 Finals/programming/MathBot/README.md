@@ -1,4 +1,4 @@
-# Discord Bot (programming 500)
+# MathBot (programming 500)
 
 ### overview
 We were given a Discord bot that sends you a math challenge to solve 50 times with a time delay.
