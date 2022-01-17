@@ -51,3 +51,6 @@ for x in range(31):
         continue
 
 ```
+
+
+~ **J4ck** alias **fncf0x**
